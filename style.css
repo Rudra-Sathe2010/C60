@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background:linear-gradient(#03fcd3,#11ff00);
+}
+#APPS{
+   font-size: 35px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    
+}
+#GAMES{
+    font-size: 50px;
+}
